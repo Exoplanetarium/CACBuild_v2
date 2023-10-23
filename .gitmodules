@@ -1,0 +1,3 @@
+[submodule "clear"]
+	path = clear
+	url = https://github.com/Exoplanetarium/CACBuild_v2
